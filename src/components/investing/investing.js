@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-class Transfers extends Component {
+class Investing extends Component {
     render() {
         return (
             <div className="header">
-                Transfers
+                Investing
             </div>
         );
     }
 }
-export default Transfers;
+export default Investing

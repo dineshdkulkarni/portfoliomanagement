@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-class BillPay extends Component {
+class Advice extends Component {
     render() {
         return (
             <div className="header">
-                BillPay
+                Advice
             </div>
         );
     }
 }
-export default BillPay;
+export default Advice;
